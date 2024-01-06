@@ -1,0 +1,22 @@
+body {
+  background-color: #F8C8DC;
+}
+
+.text{
+  background-color: #d698b2;
+  text-align: center;
+  color: white;
+
+}
+.stem{
+  display: flex;
+  place-items:center;
+  justify-content: center;
+}
+
+.centre{
+  background-color:  #d698b2;
+  align-items: center;
+  width:250px;
+  height: 250px;
+}

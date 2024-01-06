@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    height: 100vh;
+    background-color: #be3855;
+}
+.text{
+    background-color: #be3855;
+    font-family: 'Nunito';
+    text-align: center;
+    color: rgb(255, 255, 255);
+  }
+
+/* .header_text {
+    
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: top;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+} */
+
+.flex{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.center{
+    background-color: #be3855;
+    width:250px;
+    height: 250px;
+}
